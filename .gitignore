@@ -1,0 +1,6 @@
+env/
+PyQt5Designer/
+pyqt_tests/
+__pycache__/
+target/
+src/
